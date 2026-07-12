@@ -15,5 +15,5 @@ int main()
         }
         no=no/10;
     }
-    printf("%d",count)
+    printf("%d",count);
 }
